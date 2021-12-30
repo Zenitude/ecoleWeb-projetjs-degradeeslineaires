@@ -7,4 +7,6 @@
 * Modification manuelle des couleurs directement dans les inputs
 * Modification en temps réel du background en fonctions des couleurs du formulaire
 
-> Projet suivant : [Application Météo](https://github.com/Zenitude/ecoleWeb-projetjs-meteo)
+> Projet précédent : [Validation de formulaire](https://github.com/Zenitude/ecoleWeb-projetjs-validationformulaire)
+
+> Projet suivant : [Jeu cartes mystères](https://github.com/Zenitude/ecoleWeb-projetjs-jeucartesmysteres)
